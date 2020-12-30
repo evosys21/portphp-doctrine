@@ -2,7 +2,7 @@
     "name": "evosys21/portphp-doctrine",
     "description": "Doctrine ORM/ODM reader and writer for Port",
     "license": "MIT",
-    "homepage": "https://github.com/evosys21/portphp-portphp",
+    "homepage": "https://github.com/evosys21/portphp-doctrine",
     "authors": [
         {
             "name": "David de Boer",
@@ -34,7 +34,6 @@
     "require-dev": {
         "ext-sqlite3": "*",
         "doctrine/mongodb-odm": "^2.1",
-        "doctrine/orm": "^2.6",
         "doctrine/inflector": "^1.4",
         "phpunit/phpunit": "^9.2.0",
         "phpspec/phpspec": "^7.0",
