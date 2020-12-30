@@ -1,11 +1,11 @@
 # Port Doctrine ORM/ODM adapter
 
-[![Latest Version](https://img.shields.io/github/release/portphp/doctrine.svg?style=flat-square)](https://github.com/portphp/doctrine/releases)
+[![Latest Version](https://img.shields.io/github/release/portphp/doctrine.svg?style=flat-square)](https://github.com/evosys21/portphp-doctrine/releases)
 [![Build Status](https://travis-ci.org/portphp/doctrine.svg)](https://travis-ci.org/portphp/doctrine)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/portphp/doctrine/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/portphp/doctrine/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/portphp/doctrine/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/portphp/doctrine/?branch=master)
 
-Doctrine ORM/ODM reader and writer for [Port](https://github.com/portphp).
+Doctrine ORM/ODM reader and writer for [Port](https://github.com/evosys21/portphp-portphp).
 
 ## Installation
 
@@ -26,12 +26,12 @@ Documentation is available at http://portphp.readthedocs.org.
 
 ## Issues and feature requests
 
-Please report issues and request features at https://github.com/portphp/portphp/issues.
+Please report issues and request features at https://github.com/evosys21/portphp-portphp/issues.
 
 ## Contributing
 
 Contributions are very welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for
-details. Thanks to [everyone who has contributed](https://github.com/portphp/doctrine/graphs/contributors)
+details. Thanks to [everyone who has contributed](https://github.com/evosys21/portphp-doctrine/graphs/contributors)
 already.
 
 ## License
