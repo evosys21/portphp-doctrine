@@ -28,7 +28,7 @@
     },
     "require": {
         "php": ">=7.3",
-        "evosys/portphp-portphp": "^2.0.0",
+        "evosys21/portphp-portphp": "^2.0.0",
         "doctrine/orm": "^2.6"
     },
     "require-dev": {
